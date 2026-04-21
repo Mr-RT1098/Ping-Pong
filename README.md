@@ -1,2 +1,2 @@
-# This is my local Repo
-git
+#Trainig Repository
+I created this repository to actually know how to create a Repo
